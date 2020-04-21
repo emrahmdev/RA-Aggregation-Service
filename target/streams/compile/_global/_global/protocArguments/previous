@@ -1,1 +1,1 @@
-["sbt.Task[sbtprotoc.ProtocPlugin$Arguments]",[["file:///F:/repo/rimac/src/main/protobuf/","file:///F:/repo/rimac/target/protobuf_external/"],[],true,[["file:///F:/repo/rimac/target/scala-2.13/src_managed/main/",["grpc"]]]]]
+["sbt.Task[sbtprotoc.ProtocPlugin$Arguments]",[["file:///D:/CLOUD/repo/RA-Aggregation-Service/src/main/protobuf/","file:///D:/CLOUD/repo/RA-Aggregation-Service/target/protobuf_external/"],[],true,[["file:///D:/CLOUD/repo/RA-Aggregation-Service/target/scala-2.13/src_managed/main/",["grpc"]]]]]

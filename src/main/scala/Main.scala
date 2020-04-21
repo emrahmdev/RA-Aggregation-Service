@@ -48,7 +48,7 @@ object Main extends App {
 
   final val log = LoggerFactory.getLogger(getClass)
 
-  private val kafkaServer = "127.0.0.1:9092"
+  private val kafkaServer = "localhost:9092"
   private val topic = "vehicle-signals"
   private val groupId = "0"
 
@@ -59,7 +59,7 @@ object Main extends App {
   val kafkaConsumerSettings = ConsumerSettings(actorSystem.toClassic, new StringDeserializer, new ProtobufDeserializer)
     .withBootstrapServers(kafkaServer)
     .withGroupId(groupId)
-    .withProperty(ConsumerConfig.AUTO_OFFSET_RESET_CONFIG, "latest")
+    .withProperty(ConsumerConfig.AUTO_OFFSET_RESET_CONFIG, "earliest")
     .withStopTimeout(0.seconds)
   // #kafka-setup
 

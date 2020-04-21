@@ -1,0 +1,642 @@
+vehicleId: 1
+lastMessageTimestamp: 1587218849
+averageSpeed: 60.0
+maxSpeed: 66.0
+charges: 0
+------------------------
+vehicleId: 1
+lastMessageTimestamp: 1587218909
+averageSpeed: 59.99999999999999
+maxSpeed: 66.0
+charges: 0
+------------------------
+vehicleId: 1
+lastMessageTimestamp: 1587218969
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 1
+lastMessageTimestamp: 1587219029
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 1
+lastMessageTimestamp: 1587219089
+averageSpeed: 60.00000000000001
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 1
+lastMessageTimestamp: 1587219149
+averageSpeed: 59.99999999999999
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587467671
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587467731
+averageSpeed: 59.99999999999999
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587467791
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587467851
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587467911
+averageSpeed: 60.00000000000001
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587467971
+averageSpeed: 59.99999999999999
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468031
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468091
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468151
+averageSpeed: 60.00000000000001
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468211
+averageSpeed: 59.99999999999999
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468271
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468331
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468391
+averageSpeed: 60.00000000000001
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468451
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468511
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468571
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468631
+averageSpeed: 59.99999999999999
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468691
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468751
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468811
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468871
+averageSpeed: 59.99999999999999
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468931
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587468991
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469051
+averageSpeed: 60.00000000000001
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469111
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469171
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469231
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469291
+averageSpeed: 60.00000000000001
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469351
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469411
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469471
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469531
+averageSpeed: 59.99999999999999
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469591
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469651
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469711
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469771
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469831
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469891
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587469951
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470011
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470071
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470131
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470191
+averageSpeed: 60.00000000000001
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470251
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470311
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470371
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470431
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470491
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470551
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470611
+averageSpeed: 60.0
+maxSpeed: 73.0
+charges: 0
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470671
+averageSpeed: 59.45945945945946
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470731
+averageSpeed: 58.92857142857143
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470791
+averageSpeed: 58.4070796460177
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470851
+averageSpeed: 57.89473684210527
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470911
+averageSpeed: 57.391304347826086
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587470971
+averageSpeed: 56.89655172413793
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471031
+averageSpeed: 56.92307692307693
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471091
+averageSpeed: 56.949152542372886
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471151
+averageSpeed: 56.97478991596638
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471211
+averageSpeed: 57.0
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471271
+averageSpeed: 57.02479338842976
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471331
+averageSpeed: 57.049180327868854
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471391
+averageSpeed: 57.07317073170732
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471451
+averageSpeed: 57.096774193548384
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471511
+averageSpeed: 57.12
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471571
+averageSpeed: 57.14285714285714
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471631
+averageSpeed: 57.16535433070866
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471691
+averageSpeed: 57.1875
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471751
+averageSpeed: 57.2093023255814
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471811
+averageSpeed: 57.23076923076923
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471871
+averageSpeed: 57.25190839694657
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471931
+averageSpeed: 57.272727272727266
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587471991
+averageSpeed: 57.29323308270676
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472051
+averageSpeed: 57.3134328358209
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472111
+averageSpeed: 57.333333333333336
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472171
+averageSpeed: 57.35294117647059
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472231
+averageSpeed: 57.37226277372263
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472291
+averageSpeed: 57.39130434782609
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472351
+averageSpeed: 57.41007194244604
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472411
+averageSpeed: 57.42857142857142
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472471
+averageSpeed: 57.4468085106383
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472531
+averageSpeed: 57.46478873239437
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472591
+averageSpeed: 57.48251748251748
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472651
+averageSpeed: 57.5
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472711
+averageSpeed: 57.51724137931035
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472771
+averageSpeed: 57.53424657534247
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472831
+averageSpeed: 57.55102040816326
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472891
+averageSpeed: 57.567567567567565
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587472951
+averageSpeed: 57.58389261744966
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587473011
+averageSpeed: 57.6
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587473071
+averageSpeed: 57.6158940397351
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587473131
+averageSpeed: 57.631578947368425
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587473191
+averageSpeed: 57.64705882352941
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587473251
+averageSpeed: 57.272727272727266
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587473311
+averageSpeed: 56.90322580645161
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587473371
+averageSpeed: 56.53846153846153
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587473431
+averageSpeed: 56.560509554140125
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587473491
+averageSpeed: 56.20253164556962
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587473551
+averageSpeed: 55.84905660377359
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587473611
+averageSpeed: 55.5
+maxSpeed: 73.0
+charges: 1
+------------------------
+vehicleId: 0e9902069232
+lastMessageTimestamp: 1587473611
+averageSpeed: 55.5
+maxSpeed: 73.0
+charges: 1
+------------------------
